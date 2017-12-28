@@ -25,7 +25,7 @@
   
   <repositories>
     <repository>
-      <id>maven-group</id>
+      <id>maven_group</id>
       <url>http://localhost:8081/repository/maven_proxy/</url>
     </repository>
   </repositories>
