@@ -23,10 +23,11 @@
     </dependency>
   </dependencies>
   
-  <repositories>
+ <!-- <repositories>
     <repository>
       <id>maven_group</id>
       <url>http://localhost:8081/repository/maven-central/</url>
     </repository>
   </repositories>
 </project>
+-->
