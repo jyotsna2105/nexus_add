@@ -29,5 +29,6 @@
       <url>http://localhost:8081/repository/maven-central/</url>
     </repository>
   </repositories>
-</project>
+
 -->
+</project>
